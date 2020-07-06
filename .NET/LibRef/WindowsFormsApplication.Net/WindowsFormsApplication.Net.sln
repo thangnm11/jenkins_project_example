@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication.Net40", "WindowsFormsApplication.Net40\WindowsFormsApplication.Net40.csproj", "{D35D08A1-EE16-4F7B-81DB-2C037C945B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication.Net35", "WindowsFormsApplication.Net35\WindowsFormsApplication.Net35.csproj", "{462A5B4E-3850-4439-9C77-C7B1C819A948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication.Net30", "WindowsFormsApplication.Net30\WindowsFormsApplication.Net30.csproj", "{ED7D9154-17EA-4F9F-AFA5-DEE82F3DE315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication.Net20", "WindowsFormsApplication.Net20\WindowsFormsApplication.Net20.csproj", "{81204925-B671-4627-8775-2239F7A32291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35D08A1-EE16-4F7B-81DB-2C037C945B51}.Debug|x86.ActiveCfg = Debug|x86
+		{D35D08A1-EE16-4F7B-81DB-2C037C945B51}.Debug|x86.Build.0 = Debug|x86
+		{D35D08A1-EE16-4F7B-81DB-2C037C945B51}.Release|x86.ActiveCfg = Release|x86
+		{D35D08A1-EE16-4F7B-81DB-2C037C945B51}.Release|x86.Build.0 = Release|x86
+		{462A5B4E-3850-4439-9C77-C7B1C819A948}.Debug|x86.ActiveCfg = Debug|x86
+		{462A5B4E-3850-4439-9C77-C7B1C819A948}.Debug|x86.Build.0 = Debug|x86
+		{462A5B4E-3850-4439-9C77-C7B1C819A948}.Release|x86.ActiveCfg = Release|x86
+		{462A5B4E-3850-4439-9C77-C7B1C819A948}.Release|x86.Build.0 = Release|x86
+		{ED7D9154-17EA-4F9F-AFA5-DEE82F3DE315}.Debug|x86.ActiveCfg = Debug|x86
+		{ED7D9154-17EA-4F9F-AFA5-DEE82F3DE315}.Debug|x86.Build.0 = Debug|x86
+		{ED7D9154-17EA-4F9F-AFA5-DEE82F3DE315}.Release|x86.ActiveCfg = Release|x86
+		{ED7D9154-17EA-4F9F-AFA5-DEE82F3DE315}.Release|x86.Build.0 = Release|x86
+		{81204925-B671-4627-8775-2239F7A32291}.Debug|x86.ActiveCfg = Debug|x86
+		{81204925-B671-4627-8775-2239F7A32291}.Debug|x86.Build.0 = Debug|x86
+		{81204925-B671-4627-8775-2239F7A32291}.Release|x86.ActiveCfg = Release|x86
+		{81204925-B671-4627-8775-2239F7A32291}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
